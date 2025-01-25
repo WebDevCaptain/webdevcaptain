@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=750&center=true&vCenter=true&width=435&lines=Hey+!+%F0%9F%91%8B;I+am+Shreyash+%F0%9F%91%B1%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=800&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+!++++++I+am+Shreyash+%F0%9F%91%B1%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8F;%F0%9F%8E%AF+Full-stack+Development+%F0%9F%8E%AF;AI+%F0%9F%94%A5+Machine+Learning+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 
 ---
@@ -12,7 +12,9 @@
 
 - 🥷🏽 I’m passionate about writing clean code. **Collaboration** and **Mentorship** are at the heart of my work.
 
-- 🗓 Ask me about **Engineering Leadership**, **Web Development**, and **Machine Learning**.
+- 🗓 Always happy to discuss about **Engineering Leadership**, **Web Development**, and **Machine Learning**.
+
+---
 
  <h2> 🤝 Let's Connect<h2>
 
