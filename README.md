@@ -19,19 +19,19 @@
  <h2> 🤝 Let's Connect<h2>
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
- <a href="https://linkedin.com/in/webdevcaptain">
+ <a href="https://linkedin.com/in/webdevcaptain" target="_blank">
   <img align="left" alt="WebDevCaptain LinkedIn" height="24px" src="social-media-icons/linkedin.svg" />      
  </a>
 
- <a href="https://x.com/webdevcaptain">
+ <a href="https://x.com/webdevcaptain" target="_blank">
   <img align="left" alt="WebDevCaptain X (Twitter)" height="24px" src="social-media-icons/twitter-x.svg" />      
  </a>
 
- <a href="https://gitlab.com/webdevcaptain">
+ <a href="https://gitlab.com/webdevcaptain" target="_blank">
   <img align="left" alt="WebDevCaptain GitLab" height="24px" src="social-media-icons/gitlab.svg" />      
  </a>
 
- <a href="https://youtube.com/webdevcaptain">
+ <a href="https://youtube.com/webdevcaptain" target="_blank">
   <img align="left" alt="WebDevCaptain YouTube" height="24px" src="social-media-icons/youtube.svg" />
  </a>
 </div>
