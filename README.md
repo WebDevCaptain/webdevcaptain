@@ -31,7 +31,7 @@
   <img align="left" alt="WebDevCaptain GitLab" height="24px" src="social-media-icons/gitlab.svg" />      
  </a>
 
- <a href="https://youtube.com/webdevcaptain" target="_blank">
+ <a href="https://youtube.com/shreyash" target="_blank">
   <img align="left" alt="WebDevCaptain YouTube" height="24px" src="social-media-icons/youtube.svg" />
  </a>
 </div>
