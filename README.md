@@ -16,9 +16,13 @@
 
 ---
 
+<br>
+<br>
+<br>
+
  <h2> 🤝 Let's Connect<h2>
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
  <a href="https://linkedin.com/in/webdevcaptain" target="_blank">
   <img align="left" alt="WebDevCaptain LinkedIn" height="24px" src="social-media-icons/linkedin.svg" />      
  </a>
@@ -36,7 +40,9 @@
  </a>
 </div>
 
-</br>
+<br>
+<br>
+<br>
  
  <h2>🛠 Technologies and Frameworks <h2>
  <p align="center">
@@ -49,4 +55,5 @@
   <img height="200" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webdevcaptain&theme=gruvbox&layout=compact"/>
 </div>
 
-</br>
+<br>
+<br>
